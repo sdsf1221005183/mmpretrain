@@ -1,2 +1,2 @@
 pycocotools
-transformers>=4.28.0
+transformers>=5.0.0rc1
